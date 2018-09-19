@@ -42,6 +42,7 @@ function newFileName($file, $dir) {
 
 /**
  * Функция изменяет размер картинки в зависимости от переданных параметров.
+ * @author Andrey Bogan <andrey@bogan.ru>
  * @param string $src - Путь к загружаемой картинке.
  * @param string $dest - Путь к новой картинке.
  * @param int $width - Максимальная ширина картинки.

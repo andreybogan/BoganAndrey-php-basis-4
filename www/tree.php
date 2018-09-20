@@ -30,8 +30,6 @@ include GLOBAL_DIR . "fns/fns_tree.php";
   <?php
   // Печатаем каталог.
   printTree(DOCUMENT_ROOT );
-
-  removeTree(WWW_DIR . "test");
   ?>
 </body>
 </html>
